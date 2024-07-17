@@ -1,4 +1,6 @@
 # TestePlusoft
+Automação de testes para 2 funcionalidades.
+Pasta onde o código se encontra: TestePlusoft/cypress/integration
 
 # FuncionalidadeLogin
 
@@ -128,4 +130,4 @@ Git, Node.js e Cypress
 
 # Observações
 As aplicações foram testadas em localhost.
-Pasta do código: TestePlusoft/cypress/integration
+
