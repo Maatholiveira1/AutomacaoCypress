@@ -1,4 +1,4 @@
-# TestePlusoft
+# Automação de teste
 Automação de testes para 2 funcionalidades.
 Pasta onde o código se encontra: TestePlusoft/cypress/integration
 
@@ -22,6 +22,7 @@ Este conjunto de testes cobre os seguintes cenários:
 
   # URL
 Verifica se a página de login é carregada corretamente no servidor local.
+
 describe('Login Functionality', () => {
   it('URL', () => {
     // Visitar a página de login no servidor local
@@ -32,6 +33,8 @@ describe('Login Functionality', () => {
 
   # Campos
 Verifica se os campos de usuário e senha podem ser preenchidos e se o botão de login pode ser clicado.
+
+
 describe('Login Functionality', () => {
   it('Campos', () => {
     // Preencher o campo de usuário
@@ -48,6 +51,7 @@ describe('Login Functionality', () => {
 
   # Comportamento Esperado
 Verifica se a URL redireciona corretamente após o login.
+
 describe('Login Functionality', () => {
   it('Comportamento esperado', () => {
     // Verificar se a URL redireciona corretamente após o login
