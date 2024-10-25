@@ -74,12 +74,12 @@ Este repositório contém um conjunto de testes Cypress para testar a funcionali
 
 # Índice
 
-  -Conjunto de Testes
-    -Funcionalidade de Busca
-      -URL
-      -Campos
-      -Comportamento Esperado
-    -Executando os Testes
+  - Conjunto de Testes
+    - Funcionalidade de Busca
+      - URL
+      - Campos
+      - Comportamento Esperado
+    - Executando os Testes
 
 
 # Conjunto de Testes
